@@ -1,5 +1,5 @@
 ## This document will be a guide to how to get your new meta board up and running within your home
-## Written using CircuitPython and for 64x32 Adafruit Matrix Portals
+## Written using CircuitPython for 64x32 Adafruit Matrix Portals
 
 #### Recommended Hardware
 * [Adafruit Matrix Portal](https://www.adafruit.com/product/4745) 
